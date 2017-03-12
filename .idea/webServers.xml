@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="46405bc1-90c0-4eff-8e03-cd17b3753faa" name="https://github.com/AndrewLAtkinson/SQLGen" url="http://github.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="b8ea69ee-ebc1-4c0a-acb5-ce9974f80331" name="github" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</project>

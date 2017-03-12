@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="github">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/src" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="https://github.com/AndrewLAtkinson/SQLGen">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/src" web="https://github.com/AndrewLAtkinson/SQLGen/src" />
+            <mapping local="$PROJECT_DIR$" web="https://github.com/AndrewLAtkinson/SQLGen" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
